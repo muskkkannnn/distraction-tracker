@@ -9,8 +9,8 @@ A cool mobile app to track your daily distractions. Built with React Native & Ex
 Run a lightweight version in your browser:   
 👉 [Open on Snack](https://snack.expo.dev/@your-username/your-app-name)
 <br>
-<br>
-### Install on Your Phone
+<be>
+<!--### Install on Your Phone
 
 **Option 1: Scan with Expo Go app**  
 Download the [Expo Go app](https://expo.dev/expo-go) on your phone, then scan this QR:
@@ -20,7 +20,7 @@ Download the [Expo Go app](https://expo.dev/expo-go) on your phone, then scan th
 <br>
 <br>
 **Option 2: Download APK (Android only)**  
-👉 [Download APK](https://drive.google.com/your-apk-link)
+👉 [Download APK](https://drive.google.com/your-apk-link) -->
 
 <!--->
 
