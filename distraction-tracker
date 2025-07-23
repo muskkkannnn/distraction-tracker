@@ -1,0 +1,35 @@
+About Distraction Tracker:
+The android app is called distraction tracker and is made for people to track their number of distractions in a day. 
+It sends a reminder notification every hour to remind the user to track their number of distractions.  
+It changes emoji's face after reaching a dedicated distractions count number. 
+It stores the past tracked distractions as history in a calendar.
+
+My Requirements:
+1. Screen 1: The android app should have a minimal landing screen with a clear value proposition. It displays an emoji which changes face every 5 distractions (0-5 total distractions: Face 1, 5-10 total distractions: Face 2, 11-15 total distractions: Face 3, 15+ total distractions: Face 4)  
+
+2. Screen 1: The landing screen allows the user to track the number of distractions by choosing a number from the count increase and decrease buttons and adding the chosen number to the main headline / announcement using a button (similar to 'choose quantity and add' feature on e-commerce product pages). 
+
+3. Screen 1: The chosen number count gets add up to the headline / announcement that displays the total number of distractions in a day.
+
+4. Screen 1: Footer will contain 3 tabs - Home, History, Settings. Do not overlap footer with android navigation buttons.
+
+5. Screen 2: a calendar to track the distraction count history.
+
+6. Screen 3: settings 
+
+7. The user should be able to toggle between light and dark mode
+
+8. It can also work for IOS.
+
+Tech Stack Requirements:
+Typescript
+Expo 53
+React Native 
+Gluestack UI library
+Node 20
+
+Additional Information:
+1. Emojis in SVG format will be provided locally
+2. Footer icons in SVG format will be provided locally
+3. Inter font in ttf format will be provided locally
+4. Design.json for design system will be provided locally 
