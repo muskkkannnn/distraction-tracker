@@ -5,6 +5,7 @@ import { EmojiProvider, useEmojiContext } from './src/contexts/EmojiContext';
 // End of Selection
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import NavigationFooter, { TabKey } from './src/components/NavigationFooter';
+import HistoryCalendarScreen from './src/components/HistoryCalendarScreen';
 
 const HomeScreen: React.FC = () => {
   const { count, addToCount, resetCount } = useEmojiContext();
@@ -68,9 +69,7 @@ const HomeScreen: React.FC = () => {
 };
 
 const HistoryScreen: React.FC = () => (
-  <View style={styles.placeholderContainer}>
-    <Text style={styles.placeholderText}>History screen coming soon…</Text>
-  </View>
+  <HistoryCalendarScreen />
 );
 
 const SettingsScreen: React.FC = () => (
