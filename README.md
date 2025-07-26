@@ -1,7 +1,7 @@
 # Distraction Tracker App
 
 A cool mobile app to track your daily distractions. Built with React Native & Expo.
-<br>
+<!--<br>
 <br>
 ## Try It Out
 
