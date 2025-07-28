@@ -6,6 +6,7 @@ import { EmojiProvider, useEmojiContext } from './src/contexts/EmojiContext';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import NavigationFooter, { TabKey } from './src/components/NavigationFooter';
 import HistoryCalendarScreen from './src/components/HistoryCalendarScreen';
+import SettingsScreen from './src/components/SettingsScreen';
 
 const HomeScreen: React.FC = () => {
   const { count, addToCount, resetCount } = useEmojiContext();
@@ -72,11 +73,7 @@ const HistoryScreen: React.FC = () => (
   <HistoryCalendarScreen />
 );
 
-const SettingsScreen: React.FC = () => (
-  <View style={styles.placeholderContainer}>
-    <Text style={styles.placeholderText}>Settings screen coming soon…</Text>
-  </View>
-);
+
 
 const AppContent: React.FC = () => {
   const [activeTab, setActiveTab] = useState<TabKey>('home');
@@ -193,14 +190,4 @@ const styles = StyleSheet.create({
   //   color: '#666',
   //   fontSize: 16,
   // },
-  placeholderContainer: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  placeholderText: {
-    fontSize: 18,
-    color: '#aaa',
-    fontStyle: 'italic',
-  },
 });
