@@ -17,9 +17,9 @@ My Requirements:
 
 6. Screen 3: settings 
 
-7. The user should be able to toggle between light and dark mode
+<!-- 7. The user should be able to toggle between light and dark mode
 
-8. It can also work for IOS.
+8. It can also work for IOS. --->
 
 Tech Stack Requirements:
 Typescript
