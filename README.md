@@ -1,6 +1,17 @@
-# Distraction Tracker App
+<img width="500" height="380" alt="0 UI UX design, product design, full stack web development, app development, web design, React, javascript, Clean, Minimalist, Modern and Sleek, Freelancer, tracker, ai, ecommerce, productivity" src="https://github.com/user-attachments/assets/a77a4824-8f37-47c5-a7de-c159623c1f03" />
+<img width="500" height="380" alt="1 UI UX design, product design, full stack web development, app development, web design, React, javascript, Clean, Minimalist, Modern and Sleek, Freelancer, tracker, ai, ecommerce, productivity" src="https://github.com/user-attachments/assets/afb8e147-0571-4fe8-9b2e-39f297ca6a7b" />
+<img width="500" height="380" alt="2 UI UX design, product design, full stack web development, app development, web design, React, javascript, Clean, Minimalist, Modern and Sleek, Freelancer, tracker, ai, ecommerce, productivity" src="https://github.com/user-attachments/assets/f5b293fb-df61-42e2-9ee9-ada0e58ccbb0" />
+<img width="500" height="380" alt="3 UI UX design, product design, full stack web development, app development, web design, React, javascript, Clean, Minimalist, Modern and Sleek, Freelancer, tracker, ai, ecommerce, productivity" src="https://github.com/user-attachments/assets/f1ca9af6-4f4d-4d43-b68a-ada80152f043" />
 
-A cool mobile app to track your daily distractions. Built with React Native & Expo.
+<!--A cool mobile app to track your daily distractions. Built with React Native & Expo.
+
+-> The android app is made for people to track their number of distractions in a day. 
+<br>
+-> It changes emoji's face after reaching a dedicated distraction count number. 
+<br>
+-> It stores the past tracked distractions as history in a calendar.
+--->
+
 <!--<br>
 <br>
 ## Try It Out
